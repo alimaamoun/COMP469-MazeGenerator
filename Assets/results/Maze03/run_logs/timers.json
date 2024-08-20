@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1724022340",
+        "python_version": "3.10.12 | packaged by Anaconda, Inc. | (main, Jul  5 2023, 19:01:18) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "C:\\Users\\alima\\miniconda3\\envs\\mlagents\\Scripts\\mlagents-learn ML-Agents/config/MazeSolver.yaml --run-id=Maze03 --resume",
+        "mlagents_version": "1.1.0.dev0",
+        "mlagents_envs_version": "1.1.0.dev0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "2.2.2+cu121",
+        "numpy_version": "1.23.5",
+        "end_time_seconds": "1724022344"
+    },
+    "total": 3.932915099983802,
+    "count": 1,
+    "self": 0.0077244999702088535,
+    "children": {
+        "run_training.setup": {
+            "total": 0.09099760002573021,
+            "count": 1,
+            "self": 0.09099760002573021
+        },
+        "TrainerController.start_learning": {
+            "total": 3.834192999987863,
+            "count": 1,
+            "self": 0.0003587999672163278,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 3.833825200010324,
+                    "count": 1,
+                    "self": 3.833825200010324
+                },
+                "trainer_threads": {
+                    "total": 9.00006853044033e-07,
+                    "count": 1,
+                    "self": 9.00006853044033e-07
+                },
+                "TrainerController._save_models": {
+                    "total": 8.100003469735384e-06,
+                    "count": 1,
+                    "self": 8.100003469735384e-06
+                }
+            }
+        }
+    }
+}

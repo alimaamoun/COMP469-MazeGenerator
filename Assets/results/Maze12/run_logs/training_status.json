@@ -1,0 +1,56 @@
+{
+    "Mouse": {
+        "checkpoints": [
+            {
+                "steps": 27526,
+                "file_path": "results\\Maze12\\Mouse\\Mouse-27526.onnx",
+                "reward": null,
+                "creation_time": 1724098135.1439302,
+                "auxillary_file_paths": [
+                    "results\\Maze12\\Mouse\\Mouse-27526.pt"
+                ]
+            },
+            {
+                "steps": 211678,
+                "file_path": "results\\Maze12\\Mouse\\Mouse-211678.onnx",
+                "reward": null,
+                "creation_time": 1724100396.0080924,
+                "auxillary_file_paths": [
+                    "results\\Maze12\\Mouse\\Mouse-211678.pt"
+                ]
+            },
+            {
+                "steps": 250014,
+                "file_path": "results\\Maze12\\Mouse\\Mouse-250014.onnx",
+                "reward": null,
+                "creation_time": 1724100694.606982,
+                "auxillary_file_paths": [
+                    "results\\Maze12\\Mouse\\Mouse-250014.pt"
+                ]
+            },
+            {
+                "steps": 250014,
+                "file_path": "results\\Maze12\\Mouse\\Mouse-250014.onnx",
+                "reward": null,
+                "creation_time": 1724104638.577173,
+                "auxillary_file_paths": [
+                    "results\\Maze12\\Mouse\\Mouse-250014.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 250014,
+            "file_path": "results\\Maze12\\Mouse.onnx",
+            "reward": null,
+            "creation_time": 1724104638.577173,
+            "auxillary_file_paths": [
+                "results\\Maze12\\Mouse\\Mouse-250014.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

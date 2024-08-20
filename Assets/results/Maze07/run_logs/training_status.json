@@ -1,0 +1,29 @@
+{
+    "Mouse": {
+        "checkpoints": [
+            {
+                "steps": 14711,
+                "file_path": "results\\Maze07\\Mouse\\Mouse-14711.onnx",
+                "reward": null,
+                "creation_time": 1724029282.6341617,
+                "auxillary_file_paths": [
+                    "results\\Maze07\\Mouse\\Mouse-14711.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 14711,
+            "file_path": "results\\Maze07\\Mouse.onnx",
+            "reward": null,
+            "creation_time": 1724029282.6341617,
+            "auxillary_file_paths": [
+                "results\\Maze07\\Mouse\\Mouse-14711.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Mouse": {
+        "checkpoints": [
+            {
+                "steps": 15822,
+                "file_path": "results\\Maze01\\Mouse\\Mouse-15822.onnx",
+                "reward": null,
+                "creation_time": 1723953141.8094587,
+                "auxillary_file_paths": [
+                    "results\\Maze01\\Mouse\\Mouse-15822.pt"
+                ]
+            },
+            {
+                "steps": 36110,
+                "file_path": "results\\Maze01\\Mouse\\Mouse-36110.onnx",
+                "reward": null,
+                "creation_time": 1723953403.9786444,
+                "auxillary_file_paths": [
+                    "results\\Maze01\\Mouse\\Mouse-36110.pt"
+                ]
+            },
+            {
+                "steps": 71118,
+                "file_path": "results\\Maze01\\Mouse\\Mouse-71118.onnx",
+                "reward": null,
+                "creation_time": 1723954232.4587286,
+                "auxillary_file_paths": [
+                    "results\\Maze01\\Mouse\\Mouse-71118.pt"
+                ]
+            },
+            {
+                "steps": 127886,
+                "file_path": "results\\Maze01\\Mouse\\Mouse-127886.onnx",
+                "reward": null,
+                "creation_time": 1723955286.6736066,
+                "auxillary_file_paths": [
+                    "results\\Maze01\\Mouse\\Mouse-127886.pt"
+                ]
+            },
+            {
+                "steps": 227918,
+                "file_path": "results\\Maze01\\Mouse\\Mouse-227918.onnx",
+                "reward": null,
+                "creation_time": 1723955945.865915,
+                "auxillary_file_paths": [
+                    "results\\Maze01\\Mouse\\Mouse-227918.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 227918,
+            "file_path": "results\\Maze01\\Mouse.onnx",
+            "reward": null,
+            "creation_time": 1723955945.865915,
+            "auxillary_file_paths": [
+                "results\\Maze01\\Mouse\\Mouse-227918.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

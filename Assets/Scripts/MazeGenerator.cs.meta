@@ -1,2 +1,16 @@
 fileFormatVersion: 2
 guid: 89cc8f25512e763429cbc2970bd7ee3c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cellPrefab: {instanceID: 0}
+  - wallPrefab: {instanceID: 0}
+  - startPrefab: {instanceID: 0}
+  - finishPrefab: {fileID: 9123125975865037002, guid: 6ec79c6c4d034a8408c7bd6d5c32f25b, type: 3}
+  - cameraController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
